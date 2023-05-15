@@ -1,4 +1,4 @@
-  Replicas exactas de img y mp4 hacia codigo
+  Replicas exactas de img y mp4 hacia codigo + Estilo libre personalizado siguiendo la tematica de la pagina principal, en los botones de comprar
   
    + ( HTML y CSS )
             
@@ -6,4 +6,4 @@
           
    + RESPONSIVE DESING
 
-   1/2 - Gaming Web: https://celebrated-brigadeiros-8704f5.netlify.app
+   1/2 - Gaming Web: https://shimmering-blini-2cd947.netlify.app/
